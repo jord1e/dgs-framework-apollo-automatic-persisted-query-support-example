@@ -1,0 +1,10 @@
+{
+  "name": "node-apollo-client",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "3.5.10",
+    "graphql": "16.3.0",
+    "node-fetch": "^2.6.7"
+  }
+}

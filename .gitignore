@@ -1,0 +1,5 @@
+/.idea/
+/*.iml
+/node-apollo-client/node_modules/
+/jvm-dgs/.gradle/
+/jvm-dgs/build/
