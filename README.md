@@ -36,3 +36,7 @@ The second time there will only be one request as the query is cached.
 ## Wireshark output
 
 ![](screenshot-1.png)
+
+## Expected program output
+
+![](screenshot-2.png)
